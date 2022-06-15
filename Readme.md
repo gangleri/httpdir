@@ -4,7 +4,7 @@ A simple http server written in Go inspired by Python's [`python -m http.server`
 
 ## Installation
 ```
-go get -u github.com/httpdir/cmd/httpdir
+go get -u github.com/gangleri/httpdir/cmd/httpdir
 ```
 
 ## Usage
